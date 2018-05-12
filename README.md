@@ -10,7 +10,7 @@ An HTML5 stand alone app using GitHub Electron (Chrome engine + Node.js) -- this
 
 #### Install GitHub's Electron
 ```Shell
-$ sudo npm install electron-prebuilt -g
+$ sudo npm install electron -g
 ```
 #### Clone this repository
 ```Shell
